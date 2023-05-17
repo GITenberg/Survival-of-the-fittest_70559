@@ -1,0 +1,30 @@
+_repo: Survival-of-the-fittest_70559
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henderson, Gene L.
+    gutenberg_agent_id: '35847'
+    url: http://www.gutenberg.org/2009/agents/35847
+description: ''
+gutenberg_issued: '2023-04-15'
+identifiers:
+  gutenberg: '70559'
+language: en
+pgterms:marc905: 20220528061331henderson
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Androids -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Survival of the fittest
+url: http://www.gutenberg.org/ebooks/70559
