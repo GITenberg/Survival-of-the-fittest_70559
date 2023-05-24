@@ -1,11 +1,16 @@
 _repo: Survival-of-the-fittest_70559
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70559-h/images/cover.jpg
 creator:
   author:
     agent_name: Henderson, Gene L.
     gutenberg_agent_id: '35847'
     url: http://www.gutenberg.org/2009/agents/35847
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70559#Survival-of-the-fittest
 gutenberg_issued: '2023-04-15'
 identifiers:
   gutenberg: '70559'
